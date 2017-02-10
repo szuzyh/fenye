@@ -1,0 +1,180 @@
+2017/02/10 12:02:07 [I] this yellow cat is 3 years old
+2017/02/10 12:02:07 [D] |   192.168.2.84|[42m 201 [0m|   7.702183ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:10 [I] this yellow cat is 3 years old
+2017/02/10 12:02:10 [D] |   192.168.2.84|[42m 201 [0m|   1.930107ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:12 [I] this yellow cat is 3 years old
+2017/02/10 12:02:12 [D] |   192.168.2.84|[42m 201 [0m|   1.820257ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:15 [I] this yellow cat is 3 years old
+2017/02/10 12:02:15 [D] |   192.168.2.84|[42m 201 [0m|   2.192192ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:17 [I] this yellow cat is 3 years old
+2017/02/10 12:02:17 [D] |   192.168.2.84|[42m 201 [0m|   3.855457ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:20 [I] this yellow cat is 3 years old
+2017/02/10 12:02:20 [D] |   192.168.2.84|[42m 201 [0m|   2.031484ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:22 [I] this yellow cat is 3 years old
+2017/02/10 12:02:22 [D] |   192.168.2.84|[42m 201 [0m|   1.965556ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:25 [I] this yellow cat is 3 years old
+2017/02/10 12:02:25 [D] |   192.168.2.84|[42m 201 [0m|    1.66532ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:27 [I] this yellow cat is 3 years old
+2017/02/10 12:02:27 [D] |   192.168.2.84|[42m 201 [0m|    4.75393ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:30 [I] this yellow cat is 3 years old
+2017/02/10 12:02:30 [D] |   192.168.2.84|[42m 201 [0m|   1.668464ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:32 [I] this yellow cat is 3 years old
+2017/02/10 12:02:32 [D] |   192.168.2.84|[42m 201 [0m|   2.318956ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:35 [I] this yellow cat is 3 years old
+2017/02/10 12:02:35 [D] |   192.168.2.84|[42m 201 [0m|   2.459146ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:37 [I] this yellow cat is 3 years old
+2017/02/10 12:02:37 [D] |   192.168.2.84|[42m 201 [0m|    1.82368ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:40 [I] this yellow cat is 3 years old
+2017/02/10 12:02:40 [D] |   192.168.2.84|[42m 201 [0m|     5.2136ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:42 [I] this yellow cat is 3 years old
+2017/02/10 12:02:42 [D] |   192.168.2.84|[42m 201 [0m|   4.740368ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:45 [I] this yellow cat is 3 years old
+2017/02/10 12:02:45 [D] |   192.168.2.84|[42m 201 [0m|   6.742108ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:47 [I] this yellow cat is 3 years old
+2017/02/10 12:02:47 [D] |   192.168.2.84|[42m 201 [0m|   2.200109ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:50 [I] this yellow cat is 3 years old
+2017/02/10 12:02:50 [D] |   192.168.2.84|[42m 201 [0m|   3.520999ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:53 [I] this yellow cat is 3 years old
+2017/02/10 12:02:53 [D] |   192.168.2.84|[42m 201 [0m|    4.10544ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:55 [I] this yellow cat is 3 years old
+2017/02/10 12:02:55 [D] |   192.168.2.84|[42m 201 [0m|  55.032865ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:02:58 [I] this yellow cat is 3 years old
+2017/02/10 12:02:58 [D] |   192.168.2.84|[42m 201 [0m|   2.266268ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:00 [I] this yellow cat is 3 years old
+2017/02/10 12:03:00 [D] |   192.168.2.84|[42m 201 [0m|   1.776202ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:03 [I] this yellow cat is 3 years old
+2017/02/10 12:03:03 [D] |   192.168.2.84|[42m 201 [0m|   3.156199ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:05 [I] this yellow cat is 3 years old
+2017/02/10 12:03:05 [D] |   192.168.2.84|[42m 201 [0m|   2.009005ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:08 [I] this yellow cat is 3 years old
+2017/02/10 12:03:08 [D] |   192.168.2.84|[42m 201 [0m|   1.819826ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:10 [I] this yellow cat is 3 years old
+2017/02/10 12:03:10 [D] |   192.168.2.84|[42m 201 [0m|   1.729653ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:13 [I] this yellow cat is 3 years old
+2017/02/10 12:03:13 [D] |   192.168.2.84|[42m 201 [0m|   1.922376ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:15 [I] this yellow cat is 3 years old
+2017/02/10 12:03:15 [D] |   192.168.2.84|[42m 201 [0m|   3.789441ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:18 [I] this yellow cat is 3 years old
+2017/02/10 12:03:18 [D] |   192.168.2.84|[42m 201 [0m|   3.361479ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:20 [I] this yellow cat is 3 years old
+2017/02/10 12:03:20 [D] |   192.168.2.84|[42m 201 [0m|   1.759952ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:23 [I] this yellow cat is 3 years old
+2017/02/10 12:03:23 [D] |   192.168.2.84|[42m 201 [0m|    2.06305ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:25 [I] this yellow cat is 3 years old
+2017/02/10 12:03:25 [D] |   192.168.2.84|[42m 201 [0m|   1.738837ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:28 [I] this yellow cat is 3 years old
+2017/02/10 12:03:28 [D] |   192.168.2.84|[42m 201 [0m|   4.226199ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:30 [I] this yellow cat is 3 years old
+2017/02/10 12:03:30 [D] |   192.168.2.84|[42m 201 [0m|   1.912008ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:33 [I] this yellow cat is 3 years old
+2017/02/10 12:03:33 [D] |   192.168.2.84|[42m 201 [0m|   4.277019ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:35 [I] this yellow cat is 3 years old
+2017/02/10 12:03:35 [D] |   192.168.2.84|[42m 201 [0m|  48.906806ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:38 [I] this yellow cat is 3 years old
+2017/02/10 12:03:38 [D] |   192.168.2.84|[42m 201 [0m|   4.529078ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:41 [I] this yellow cat is 3 years old
+2017/02/10 12:03:41 [D] |   192.168.2.84|[42m 201 [0m|    2.05522ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:43 [I] this yellow cat is 3 years old
+2017/02/10 12:03:43 [D] |   192.168.2.84|[42m 201 [0m|   1.805437ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:46 [I] this yellow cat is 3 years old
+2017/02/10 12:03:46 [D] |   192.168.2.84|[42m 201 [0m|   3.443882ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:48 [I] this yellow cat is 3 years old
+2017/02/10 12:03:48 [D] |   192.168.2.84|[42m 201 [0m|   2.590362ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:51 [I] this yellow cat is 3 years old
+2017/02/10 12:03:51 [D] |   192.168.2.84|[42m 201 [0m|   4.648542ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:53 [I] this yellow cat is 3 years old
+2017/02/10 12:03:53 [D] |   192.168.2.84|[42m 201 [0m|   3.155903ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:56 [I] this yellow cat is 3 years old
+2017/02/10 12:03:56 [D] |   192.168.2.84|[42m 201 [0m|   3.033627ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:03:58 [I] this yellow cat is 3 years old
+2017/02/10 12:03:58 [D] |   192.168.2.84|[42m 201 [0m|   1.918837ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:01 [I] this yellow cat is 3 years old
+2017/02/10 12:04:01 [D] |   192.168.2.84|[42m 201 [0m|   1.875056ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:03 [I] this yellow cat is 3 years old
+2017/02/10 12:04:03 [D] |   192.168.2.84|[42m 201 [0m|   2.232245ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:06 [I] this yellow cat is 3 years old
+2017/02/10 12:04:06 [D] |   192.168.2.84|[42m 201 [0m|   3.792857ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:08 [I] this yellow cat is 3 years old
+2017/02/10 12:04:08 [D] |   192.168.2.84|[42m 201 [0m|   2.141577ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:11 [I] this yellow cat is 3 years old
+2017/02/10 12:04:11 [D] |   192.168.2.84|[42m 201 [0m|    4.68001ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:13 [I] this yellow cat is 3 years old
+2017/02/10 12:04:13 [D] |   192.168.2.84|[42m 201 [0m|   1.859166ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:16 [I] this yellow cat is 3 years old
+2017/02/10 12:04:16 [D] |   192.168.2.84|[42m 201 [0m|   2.128547ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:18 [I] this yellow cat is 3 years old
+2017/02/10 12:04:18 [D] |   192.168.2.84|[42m 201 [0m|   3.951747ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:21 [I] this yellow cat is 3 years old
+2017/02/10 12:04:21 [D] |   192.168.2.84|[42m 201 [0m|   3.597021ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:23 [I] this yellow cat is 3 years old
+2017/02/10 12:04:23 [D] |   192.168.2.84|[42m 201 [0m|   1.862275ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:26 [I] this yellow cat is 3 years old
+2017/02/10 12:04:26 [D] |   192.168.2.84|[42m 201 [0m|   1.893564ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:28 [I] this yellow cat is 3 years old
+2017/02/10 12:04:28 [D] |   192.168.2.84|[42m 201 [0m|   3.215652ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:31 [I] this yellow cat is 3 years old
+2017/02/10 12:04:31 [D] |   192.168.2.84|[42m 201 [0m|   3.692992ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:33 [I] this yellow cat is 3 years old
+2017/02/10 12:04:33 [D] |   192.168.2.84|[42m 201 [0m|   5.211869ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:36 [I] this yellow cat is 3 years old
+2017/02/10 12:04:36 [D] |   192.168.2.84|[42m 201 [0m|   4.684125ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:39 [I] this yellow cat is 3 years old
+2017/02/10 12:04:39 [D] |   192.168.2.84|[42m 201 [0m|   4.383352ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:41 [I] this yellow cat is 3 years old
+2017/02/10 12:04:41 [D] |   192.168.2.84|[42m 201 [0m|   3.188534ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:44 [I] this yellow cat is 3 years old
+2017/02/10 12:04:44 [D] |   192.168.2.84|[42m 201 [0m|    2.02689ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:46 [I] this yellow cat is 3 years old
+2017/02/10 12:04:46 [D] |   192.168.2.84|[42m 201 [0m|  39.540824ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:49 [I] this yellow cat is 3 years old
+2017/02/10 12:04:49 [D] |   192.168.2.84|[42m 201 [0m|   3.215015ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:51 [I] this yellow cat is 3 years old
+2017/02/10 12:04:51 [D] |   192.168.2.84|[42m 201 [0m|    3.71554ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:54 [I] this yellow cat is 3 years old
+2017/02/10 12:04:54 [D] |   192.168.2.84|[42m 201 [0m|   3.000287ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:56 [I] this yellow cat is 3 years old
+2017/02/10 12:04:56 [D] |   192.168.2.84|[42m 201 [0m|    1.76773ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:04:59 [I] this yellow cat is 3 years old
+2017/02/10 12:04:59 [D] |   192.168.2.84|[42m 201 [0m|   7.752066ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:05:01 [I] this yellow cat is 3 years old
+2017/02/10 12:05:01 [D] |   192.168.2.84|[42m 201 [0m|   1.890091ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:05:04 [I] this yellow cat is 3 years old
+2017/02/10 12:05:04 [D] |   192.168.2.84|[42m 201 [0m|   3.782817ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:05:06 [I] this yellow cat is 3 years old
+2017/02/10 12:05:06 [D] |   192.168.2.84|[42m 201 [0m|   3.602343ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:05:09 [I] this yellow cat is 3 years old
+2017/02/10 12:05:09 [D] |   192.168.2.84|[42m 201 [0m|   2.142138ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:05:11 [I] this yellow cat is 3 years old
+2017/02/10 12:05:11 [D] |   192.168.2.84|[42m 201 [0m|   1.887706ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:05:14 [I] this yellow cat is 3 years old
+2017/02/10 12:05:14 [D] |   192.168.2.84|[42m 201 [0m| 141.758225ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:22 [I] http server Running on http://:7000
+2017/02/10 12:11:23 [I] this yellow cat is 3 years old
+2017/02/10 12:11:23 [D] |   192.168.2.84|[42m 201 [0m|   2.512564ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:26 [I] this yellow cat is 3 years old
+2017/02/10 12:11:26 [D] |   192.168.2.84|[42m 201 [0m|   3.669117ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:28 [I] this yellow cat is 3 years old
+2017/02/10 12:11:28 [D] |   192.168.2.84|[42m 201 [0m|   4.825546ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:31 [I] this yellow cat is 3 years old
+2017/02/10 12:11:31 [D] |   192.168.2.84|[42m 201 [0m|   2.579912ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:33 [I] this yellow cat is 3 years old
+2017/02/10 12:11:33 [D] |   192.168.2.84|[42m 201 [0m|   2.724929ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:36 [I] this yellow cat is 3 years old
+2017/02/10 12:11:36 [D] |   192.168.2.84|[42m 201 [0m|   1.955924ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:38 [I] this yellow cat is 3 years old
+2017/02/10 12:11:38 [D] |   192.168.2.84|[42m 201 [0m|   2.937512ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:41 [I] this yellow cat is 3 years old
+2017/02/10 12:11:41 [D] |   192.168.2.84|[42m 201 [0m|   2.205527ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:44 [I] this yellow cat is 3 years old
+2017/02/10 12:11:44 [D] |   192.168.2.84|[42m 201 [0m|   2.578564ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:46 [I] http server Running on http://:7000
+2017/02/10 12:11:46 [I] this yellow cat is 3 years old
+2017/02/10 12:11:46 [D] |   192.168.2.84|[42m 201 [0m|    2.31795ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:49 [I] this yellow cat is 3 years old
+2017/02/10 12:11:49 [D] |   192.168.2.84|[42m 201 [0m|    2.08724ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:51 [I] this yellow cat is 3 years old
+2017/02/10 12:11:51 [D] |   192.168.2.84|[42m 201 [0m|    2.88595ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:54 [I] this yellow cat is 3 years old
+2017/02/10 12:11:54 [D] |   192.168.2.84|[42m 201 [0m|   4.743607ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
+2017/02/10 12:11:56 [I] this yellow cat is 3 years old
+2017/02/10 12:11:56 [D] |   192.168.2.84|[42m 201 [0m|   2.391376ms|   match|[46m POST    [0m /api/statistics   r:/api/statistics/
